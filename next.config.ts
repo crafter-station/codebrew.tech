@@ -8,6 +8,11 @@ const nextConfig: NextConfig = {
         destination: "https://luma.com/63xdcail",
         permanent: false,
       },
+      {
+        source: "/lima",
+        destination: "https://luma.com/0bdpg02o",
+        permanent: false,
+      },
     ];
   },
 };
