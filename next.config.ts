@@ -13,6 +13,11 @@ const nextConfig: NextConfig = {
 				destination: "https://luma.com/mhmuia60",
 				permanent: false,
 			},
+			{
+				source: "/bogota",
+				destination: "https://luma.com/vio9mzgs",
+				permanent: false,
+			},
 		];
 	},
 };
