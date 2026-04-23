@@ -18,6 +18,12 @@ const nextConfig: NextConfig = {
 				destination: "https://luma.com/vio9mzgs",
 				permanent: false,
 			},
+			{
+				source: "/menu",
+				destination:
+					"https://xlpzqv2bvtoejfq9.public.blob.vercel-storage.com/CARTA%20LUCIO%20BOLLERIA_2026.pdf",
+				permanent: false,
+			},
 		];
 	},
 };
